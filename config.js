@@ -2,7 +2,7 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 // Other
-global.log0 = fs.readFileSync("./media/fenzo.jpg")
+global.log0 = fs.readFileSync("./media/SAVE_20220618_164334.jpg")
 global.owner = ['6285158621566','62895338690940']
 global.lolhuman = "" //Beli Di lolhuman.xyz
 global.rkyt = []
